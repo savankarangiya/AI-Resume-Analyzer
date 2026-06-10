@@ -1,4 +1,4 @@
-# 🚀 AI Career Copilot
+# 🚀 AI Resume Analyzer
 
 AI-powered Resume Analyzer built with Streamlit and Groq LLM that helps job seekers improve their resumes through ATS scoring, Job Description matching, Missing Skills analysis, Career Recommendations, Resume Optimization, and Project Extraction.
 
