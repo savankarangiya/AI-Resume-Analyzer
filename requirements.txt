@@ -1,5 +1,9 @@
 streamlit
 pypdf
+python-docx
+reportlab
 groq
 python-dotenv
-python-docx
+pandas
+numpy
+scikit-learn
